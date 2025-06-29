@@ -1,0 +1,10 @@
+com\nhgl\quizzappv1\SecondaryController.class
+com\nhgl\quizzappv1\App.class
+com\nhgl\utils\MyAlert.class
+com\nhgl\quizzappv1\PrimaryController.class
+com\nhgl\quizzappv1\QuestionsController.class
+module-info.class
+com\nhgl\pojo\Category.class
+com\nhgl\services\CategoryServices.class
+com\nhgl\utils\MyConnector.class
+com\nhgl\utils\MyStage.class
