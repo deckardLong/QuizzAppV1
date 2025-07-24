@@ -1,0 +1,28 @@
+.Title {
+    -fx-font-size: 28;
+    -fx-fill: #99BC85;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+    -fx-stroke: #011C40;
+    -fx-stroke-width: 2;
+}
+
+.Background {
+    -fx-background-color: #FDFAF6;
+    -fx-padding: 10;
+    -fx-alignment: CENTER;
+    -fx-spacing: 10;
+}
+
+.Button {
+    -fx-background-color: #E4EFE7;
+    -fx-text-fill: #99BC85;
+    -fx-pref-width: 200;
+    -fx-font-size: 14;
+}
+
+.Input {
+    -fx-padding: 8;
+    -fx-pref-width: 250;
+}
+
